@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+.pytest_cache/
+
+# Model
+model/
+*.bin
+*.safetensors
+
+# Output
+output/
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
